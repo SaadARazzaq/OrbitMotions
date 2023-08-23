@@ -1,6 +1,6 @@
 # Screen Rotation Animation Script
 
-This is a Python script that utilizes the `rotatescreen` library to create a playful screen rotation animation. The script cycles through different screen orientations, creating a dynamic and entertaining effect.
+This is a Python script that utilizes the `rotatescreen` library to create a playful/awful screen rotation animation. The script cycles through different screen orientations, creating a dynamic and entertaining effect.
 
 ## Prerequisites
 
